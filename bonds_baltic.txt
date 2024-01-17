@@ -1,0 +1,80 @@
+MOGO110024A - mogo 3Y 11% bond
+ALTM013024A - Altum 1.3% 7Y green bond
+AUGB060024A - AUGA group 6% 5Y green bond
+ORKL060025A - Orkela 6% 3Y bond
+PRFB062525A - PRFoods 6.25% bond
+ALTM013025A - Altum 1.3% 7Y bond
+VIKA006525B - Valst. inv. kap. 0.65% 3Y bond
+OPMB070025A - Medicinos bankas 7% 7Y subord.b.
+VIKA000025A - Valst. inv. kap. 0.00% 4 Y bond
+SABB0104725A - Siauliu bankas 1,047% bond
+AEIB050025A - Atsin.energ.investicijos 5% 4Y b
+STOH110025A - Storent Holdings 11% 2.5Y bond
+AKRB0287526A - AKROPOLIS GROUP 2.875% 5Y bond
+IUTE110026A - IuteCredit Finance 5Y bond
+ALTM004426A - Altum 0,443% 5Y bond
+PKGB080024A - Pro Kapital Grupp 8.00% bond
+CBLBFLOT26A - Citadele 5Y bond
+ACLB070026A - AgroCredit Latvia 7% bond
+ASTB005027A - AST 0.5% 5.25Y green bond
+AMBEFLOT27A - Amber Beverage Group Holding 4Y
+ELEK024227A - Latvenergo 2.42% 5Y green bond
+EPSO0311727A - EPSO-G 3.117% 5Y bond
+VIKA0282627A - Valst. inv. kap. 2.826% 5Y bond
+MXGR062527A - Maxima grupe 6.25% 5Y bond
+IGNB020027A - Ignitis grupe 2% 10Y green bond
+CBLB055027A - Citadele banka 5.5% 10Y bond 
+ADMB080027A - Admiral Markets 8% subord. bond
+NHCBFLO28A - Baltic Horizon Fund 5Y bond
+ELEK005028A - Latvenergo 0.5% 7Y green bond
+IGNB0187528A - Ignitis grupe 1.875% 10Y green
+ELEV130028A - Eleving Group 5Y bond
+ELEK0495229A - Latvenergo 4.952% 6Y green bond
+BORA070029A - BluOr Bank 7.00% 7Y bond
+INBB060029A - Inbank 6.00% subord. bond
+SABB061529A - Siauliu bankas 6,15% bond
+IGNB020030A - Ignitis grupe 2% 10Y bond
+LHVB060030A - LHV Group 10Y 6.00% sub. bond
+ADMG080031A - Admirals Group 8.00% subord.bond
+CPAB055031A - Coop Pank 5.5% bond
+CBLB050031A - Citadele banka 5% 10Y bond 
+INBB055031A - Inbank 5.5% subord. bond
+CPAB050032A - Coop Pank 5% bond
+BIGB080032A - Bigbank 8.00% subord.bond
+BIGB080033A - Bigbank 8.00% subord.bond
+SABB107533A - Siauliu bankas 10,75% bond
+LHVB105033A - LHV Group 10.5% subord. bond
+BIGB080033B - Bigbank 8.00% subord. bond
+INBB090033A - Inbank 9.00% subord. bond
+GIVEN006024FA - GIVEN Jewellery 6.00% 2.5Y bond
+MARI065024FA - Marijas 2 2Y bond
+CAPT050024FA - Capitalica 5% 2Y bond
+SUMC067524FA - Summus Capital 6,75% 3Y bond
+SUNB110024FA - Sun Finance 11% 3Y bond
+UPPB080022FA - UPP & CO Kauno 53 6.00% bond
+DGRBFLOT24FA - DelfinGroup 2Y bond
+CCLAT067524FA - CrossChem 6.75% 3Y bond
+SIGR130024FA - Sun Investment Group 1Y bond
+LONGO060024FA - Longo Group 6% 3Y bond
+UPOB060025FA - UPP Olaines 6% bond
+BANGA060025FA - Banga Ltd 3Y bond
+REFIE095025FA - REFI Energy 2Y bond
+COFAD090025FA - Coffee Address Holding 9.00% 3Y
+LONGOFLOT25FA - Longo Group 3Y Bond
+GIVENFLOT25FA - GIVEN Jewellery 3Y bond
+SUNBFLOT25FA - Sun Finance 3Y bond
+CIVB110025FA - Civinity 11% 2Y bond
+CAPTFLOT25FA - Capitalica 2Y bond
+LEBA080025FA - Legal Balance 3Y 8% bond
+MDGBFLOT25FA - Modus Grupe 2Y bond
+CRGBFLOT25FA - CleanR Grupa 3Y bond
+ELGB060026FA - Elko Grupa 6% 5Y bond
+ECOB080026FA - Eco Baltia 8.00% 3Y bond
+DGRBFLOT26FA - DelfinGroup 2.5Y bonds
+INTRFLOT26FA - Integre Trans 3Y bond
+MAYB047526FA - Mainor Ulemiste 4.75% 5Y bond
+MAYB085027FA - Mainor Ülemiste 8.5% bond
+TUUL100027FA - Tuul Mobility 10% bond
+HEST045027FA - Hestio 4.5% 5Y bond
+RTOB120029FA - RATO kredito unija 7Y 12% bond
+ELEVFLOT31FA - Eleving Group 10Y bond

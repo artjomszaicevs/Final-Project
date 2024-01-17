@@ -1,0 +1,709 @@
+MAERSK A - A.P. Møller - Mærsk A
+MAERSK B - A.P. Møller - Mærsk B
+AAB - AaB
+AAK - AAK
+ABB - ABB Ltd
+ABLI - Abliva
+ACAD - AcadeMedia
+ACRI A - Acrinova A
+ACRI B - Acrinova B
+ATIC - Actic Group
+ACTI - Active Biotech
+ALIF B - AddLife B
+ANOD B - Addnode Group B
+ADDT B - Addtech B
+AFAGR - Afarak Group
+AOI - Africa Oil
+AFRY - AFRY
+AGAT - Agat Ejendomme
+AGF B - AGF B
+AKTIA - Aktia Bank Abp
+ALFA - Alfa Laval
+ALIG - Alimak Group
+ALISA - Alisa Pankki Oyj
+ALK B - ALK-Abelló B
+ALLEI - Alleima
+ATORX - Alligator Bioscience
+ALLIGO B - Alligo B
+ALMB - Alm. Brand
+ALMA - Alma Media Oyj
+ALVO - Alvotech
+AMRQ - Amaroq Minerals Ltd.
+AMBEA - Ambea
+AMBU B - Ambu
+ANNE B - Annehem Fastigheter B
+ANORA - Anora Group Oyj
+ANOT - Anoto Group
+APETIT - Apetit Oyj
+AQ - AQ Group
+AQP - Aquaporin
+ARP - Arctic Paper
+ARION - Arion banki
+ARION SDB - Arion Banki SDB
+ARISE - Arise
+ARJO B - Arjo B
+ARPL - Arla Plast
+TALLINK - AS Tallink Grupp FDR
+ACE - Ascelia Pharma
+ASTK - Asetek
+ASPO - Aspo Oyj
+ACG1V - Aspocomp Group Oyj
+ASSA B - ASSA ABLOY B
+AZN - AstraZeneca
+ATLA DKK - Atlantic Petroleum
+ATCO A - Atlas Copco A
+ATCO B - Atlas Copco B
+ATRAV - Atria Oyj A
+ATRLJ B - Atrium Ljungberg B
+ATT - Attendo
+ALIV SDB - Autoliv SDB
+AZA - Avanza Bank Holding
+AXFO - Axfood
+B3 - B3 Consulting Group
+BACTI B - Bactiguard Holding B
+BALCO - Balco Group
+BO - Bang & Olufsen
+BNORDIK CSE - BankNordik
+BAVA - Bavarian Nordic
+BEGR - BE Group
+BEIA B - Beijer Alma B
+BEIJ B - Beijer Ref B
+BERG B - Bergman & Beving B
+BESQ - Besqab
+BETS B - Betsson B
+BETCO - Better Collective
+BETCO DKK - Better Collective
+BHG - BHG Group
+BICO - BICO Group
+BILI A - Bilia A
+BILL - Billerud
+BIOA B - BioArctic B
+BIOG B - BioGaia B
+BIOBV - Biohit Oyj B
+BINV - BioInvent International
+BIOPOR - BioPorto
+BIOT - Biotage
+BITTI - Bittium Oyj
+BORG - Björn Borg
+BOL - Boliden
+BONAV A - Bonava A
+BONAV B - Bonava B
+BONEX - BONESUPPORT HOLDING
+BONG - Bong
+BOOZT - Boozt
+BOOZT DKK - Boozt
+BOREO - Boreo Oyj
+BOUL - Boule Diagnostics
+BRAV - Bravida Holding
+KLEE B - Brd. Klee B
+AOJ B - Brdr. A & O Johansen B
+BRIM - Brim
+BRIN B - Brinova Fastigheter B
+BIF - Brøndby IF
+BTS B - BTS Group B
+BUFAB - Bufab
+BULTEN - Bulten
+BURE - Bure Equity
+BFG - Byggfakta Group Nordic HoldCo
+BMAX - Byggmax Group
+CALTX - Calliditas Therapeutics
+CAMX - Camurus
+CANTA - Cantargia
+CAPMAN - CapMan Oyj
+CGCBV - Cargotec Oyj
+CARL A - Carlsberg A
+CARL B - Carlsberg B
+CAST - Castellum
+CAT A - Catella A
+CAT B - Catella B
+CATE - Catena
+CTM - Catena Media
+CAV1V - Caverion Oyj
+CCC - Cavotec
+CBRAIN - CBRAIN
+CEVI - CellaVision
+CEMAT - Cemat
+CHEMM - ChemoMetec
+CHR - Chr. Hansen Holding
+CBTT B - Christian Berner Tech Trade B
+CIBUS - Cibus Nordic Real Estate
+CINT - Cint Group
+CTY1S - Citycon Oyj
+CLAS B - Clas Ohlson B
+CLA B - Cloetta B
+CS - CoinShares International
+COLO B - Coloplast B
+COLUM - Columbus
+CTH1V - Componenta Oyj
+CNCJO B - Concejo B
+COIC - Concentric
+CCOR B - Concordia Maritime B
+CONSTI - Consti Oyj
+COOR - Coor Service Management Hold.
+CPHCAP PREF32 - Copenhagen 40% Pref 2032
+CPHCAP PREF - Copenhagen Capital Præf
+CPHCAP ST - Copenhagen Capital Stam
+COPP - Copperstone Resources
+CORE A - Corem Property Group A
+CORE B - Corem Property Group B
+CORE D - Corem Property Group D
+CORE PREF - Corem Property Group Pref
+CRAD B - C-RAD B
+CRED A - Creades A
+CPAC SPAC - Creaspac SPAC
+CTEK - CTEK
+CTT - CTT Systems
+DNORD - D/S Norden
+DAB - Danske Andelskassers Bank
+DANSKE - Danske Bank
+DANT - Dantax
+DEDI - Dedicare B
+DEMANT - Demant
+DFDS - DFDS
+DIGIA - Digia Oyj
+DIGIGR - Digitalist Group Oyj
+DIOS - Diös Fastigheter
+DJUR - Djurslands Bank
+DOM - Dometic Group
+DORO - DORO
+DOV1V - Dovre Group Oyj
+DSV - DSV
+DUNI - Duni
+DURC B - Duroc B
+DUST - Dustin Group
+EAC - EAC Invest
+EAST - Eastnine
+EEZY - Eezy Oyj
+EGTX - Egetis Therapeutics
+EIK - Eik fasteignafélag
+EIM - Eimskipafélag Íslands
+ELAN B - Elanders B
+ELEAV - Elecster Oyj A
+ELUX A - Electrolux A
+ELUX B - Electrolux B
+EPRO B - Electrolux Professional B
+EKTA B - Elekta B
+ELISA - Elisa Oyj
+ELON - Elon
+ELTEL - Eltel
+EMBRAC B - Embracer Group B
+PAMPALO - Endomines Finland Oyj
+ENEA - Enea
+ENENTO - Enento Group Oyj
+ESENSE - Enersense International Oyj
+ENGCON B - engcon B
+ENRO - Eniro Group
+ESG - Ennogie Solar Group
+EOLU B - Eolus Vind B
+EPEN - Ependion
+EPI A - Epiroc A
+EPI B - Epiroc B
+EPIS B - Episurf B
+EQV1V - eQ Oyj
+EQT - EQT
+ERIC A - Ericsson A
+ERIC B - Ericsson B
+ESSITY A - Essity A
+ESSITY B - Essity B
+ETTE - Etteplan Oyj
+EVLI - Evli Oyj
+EVO - Evolution
+EWRK - Ework Group
+EXL1V - Exel Composites Oyj
+FABG - Fabege
+FAG - Fagerhult Group
+FG - Fasadgruppen Group
+FED - Fast Ejendom Danmark
+BALD B - Fast. Balder B
+FASTAT - Fastator
+EMIL PREF - Fastighetsbolag. Emilshus Pref
+EMIL B - Fastighetsbolaget Emilshus B
+FPAR A - Fastpartner A
+FPAR D - Fastpartner D
+FOI B - Fenix Outdoor International B
+FNM - Ferronordic
+FESTI - Festi
+FING B - Fingerprint Cards B
+FIA1S - Finnair Oyj
+FFARMS - FirstFarms
+FSKRS - Fiskars Oyj Abp
+FLS - FLSmidth & Co.
+FLUG B - Flügger group B
+FMM B - FM Mattsson Mora Group B
+FPIP - Formpipe Software
+FNOX - Fortnox
+FORTUM - Fortum Oyj
+FSECURE - F-Secure Oyj
+FYNBK - Fynske Bank
+G5EN - G5 Entertainment
+GABR - Gabriel Holding
+GIGSEK - Gaming Innovation Group
+GARO - Garo
+GMAB - Genmab
+GPG - Genova Property Group
+GERHSP - German High Street Properties
+GETI B - Getinge B
+GLA1V - Glaston Oyj Abp
+GJ - Glunz & Jensen Holding
+GN - GN Store Nord
+GOFORE - Gofore Oyj
+GREENH - Green Hydrogen Systems
+GREEN - Green Landscaping Group
+GREENM - GreenMobility
+GRNG - Gränges
+GRLA - Grønlandsbanken
+GUBRA - Gubra
+GYLD A - Gyldendal A
+GYLD B - Gyldendal B
+HLUN A - H. Lundbeck A
+HLUN B - H. Lundbeck B
+HH - H+H International
+HAGA - Hagar
+HAKI A - HAKI Safety A
+HAKI B - HAKI Safety B
+HAMP - Hampiðjan
+HNSA - Hansa Biopharma
+HANZA - HANZA
+HARB B - Harboes Bryggeri B
+HARVIA - Harvia Oyj
+HAV B - Havsfrun Investment B
+HEBA B - HEBA B
+HEM - Hemnet Group
+HM B - Hennes & Mauritz B
+HEXA B - Hexagon B
+HTRO - Hexatronic Group
+HPOL B - HEXPOL B
+HKSAV - HKScan Oyj  A
+HMS - HMS Networks
+HOFI - Hoist Finance
+HOLM A - Holmen A
+HOLM B - Holmen B
+HONBS - Honkarakenne Oyj B
+HUFV A - Hufvudstaden A
+HUH1V - Huhtamäki Oyj
+HUM - Humana
+HUSCO - HusCompagniet
+HUSQ A - Husqvarna A
+HUSQ B - Husqvarna B
+HVID - Hvidbjerg Bank
+IAR B - I.A.R Systems Group
+ICESEA - Iceland Seafood International
+ICEAIR - Icelandair Group
+ILKKA2 - Ilkka Oyj 2
+IS - Image Systems
+IMMNOV - Immunovia
+ICP1V - Incap Oyj
+INDU A - Industrivärden A
+INDU C - Industrivärden C
+INDT - Indutrade
+IBT B - Infant Bacterial TherapeuticsB
+INFREA - Infrea
+IFA1V - Innofactor Plc
+INSTAL - Instalco
+IMAIL - InterMail
+IPCO - International Petroleum Corp.
+INTRUM - Intrum
+INVE A - Investor A
+INVE B - Investor B
+INVEST - Investors House Oyj
+INWI - Inwido
+IVSO - INVISIO
+IRLAB A - IRLAB Therapeutics A
+ISF - Ísfélag
+ISB - Íslandsbanki
+ISOFOL - Isofol Medical
+ISS - ISS
+ITAB - ITAB Shop Concept
+JDAN - Jeudan
+JM - JM
+JOMA - John Mattson Fastighetsföret.
+JYSK - Jyske Bank
+K2A B - K2A Knaust & Andersson B
+K2A PREF - K2A Knaust & Andersson Pref
+KABE B - KABE Group B
+KALD - Kaldalón
+KAMUX - Kamux Oyj
+KAR - Karnov Group
+KDEV - Karolinska Development B
+KEMIRA - Kemira Oyj
+KSLAV - Keskisuomalainen Oyj A
+KESKOA - Kesko Oyj A
+KESKOB - Kesko Oyj B
+KELAS - Kesla Oyj A
+KFAST B - K-Fast Holding B
+KHG - KH Group Oyj
+KIND SDB - Kindred Group
+KINV A - Kinnevik A
+KINV B - Kinnevik B
+KLARA B - KlaraBo Sverige B
+KNOW - Knowit
+KOJAMO - Kojamo Oyj
+KNEBV - KONE Oyj
+KCR - Konecranes Oyj
+KOSKI - Koskisen Oyj
+KREATE - Kreate Group Oyj
+KRE - Kreditbanken
+KVIKA - Kvika banki
+KBHL - Københavns Lufthavne
+LAGR B - Lagercrantz Group B
+LAMM B - Lammhults Design Group B
+LAMOR - Lamor Corporation Oyj
+LAT1V - Lassila & Tikanoja Oyj
+LATO B - Latour B
+LEHTO - Lehto Group Oyj
+LIFCO B - Lifco B
+LL1SPAC - Lifeline SPAC I Oyj A
+LIME - Lime Technologies
+LINC - Linc
+LIAB - Lindab International
+LOGI A - Logistea A
+LOGI B - Logistea B
+LOLB - Lollands Bank
+LOOMIS - Loomis
+LUC - Lucara Diamond Corp
+LUND B - Lundbergföretagen B
+LUG - Lundin Gold
+LUMI - Lundin Mining Corporation
+LUXOR B - Luxor B
+LASP - Lån og Spar Bank
+MAHA A - Maha Energy
+MEAB B - Malmbergs Elektriska B
+MANTA - Mandatum
+MANG - Mangold
+MAREL - Marel
+MEKKO - Marimekko Oyj
+MARAS - Martela Oyj A
+MATAS - Matas
+MCAP - MedCap
+MCOV B - Medicover B
+MVIR - Medivir
+MEKO - MEKO
+IMMU - Mendus
+METSO - Metso Oyj
+METSA - Metsä Board Oyj A
+METSB - Metsä Board Oyj B
+MSAB B - Micro Systemation B
+MSON A - Midsona A
+MSON B - Midsona B
+MILDEF - Mildef Group
+TIGO SDB - Millicom Int. Cellular SDB
+MIPS - Mips
+MOB - Moberg Pharma
+MTG A - Modern Times Group A
+MTG B - Modern Times Group B
+MOMENT - Moment Group
+MMGR B - Momentum Group B
+MTHH - MT Højgaard Holding
+MTRS - Munters Group
+MUSTI - Musti Group Oyj
+MYCR - Mycronic
+SAFETY B - mySafety Group B
+MNBA - Møns Bank
+NICA - Nanologica
+NAXS - NAXS
+NCAB - NCAB Group
+NCC A - NCC A
+NCC B - NCC B
+NMAN - Nederman Holding
+NELLY - Nelly Group
+NESTE - Neste Oyj
+NETI B - Net Insight B
+NETC - Netcompany Group
+NETEL - Netel Holding
+NEWA B - New Wave B
+NEWCAP - Newcap Holding
+NGS - NGS Group
+NIBE B - NIBE Industrier B
+NLFSK - Nilfisk Holding
+NIL B - Nilörngruppen B
+NIVI B - Nivika Fastigheter B
+NKT - NKT
+NNIT - NNIT
+NOBI - Nobia
+NOBLE - Noble Corporation
+NOHO - NoHo Partners Oyj
+NOKIA - Nokia Oyj
+TYRES - Nokian Renkaat Oyj
+NOLA B - Nolato B
+NDA DK - Nordea Bank Abp
+NDA FI - Nordea Bank Abp
+NDA SE - Nordea Bank Abp
+NRDF - Nordfyns Bank
+NPAPER - Nordic Paper Holding
+NWG - Nordic Waterproofing Holding
+NORB B - Nordisk Bergteknik B
+SAVE - Nordnet
+NORION - Norion Bank
+NORTHM - North Media
+NORVA - Norva24 Group
+NOTE - NOTE
+NOVA - Nova Klúbburinn
+NOVO B - Novo Nordisk B
+NTEK B - NOVOTEK B
+NZYM B - Novozymes B
+NP3 - NP3 Fastigheter
+NP3 PREF - NP3 Fastigheter Pref
+NTG - NTG Nordic Transport Group
+NTR B - NTR Holding B
+NLG1V - Nurminen Logistics Oyj
+NYF - Nyfosa
+OEM B - OEM International B
+OLVAS - Olvi Oyj A
+OMASP - Oma Säästöpankki Oyj
+ONCO - Oncopeptides
+OPTOMED - Optomed Oyj
+ORX - Orexo
+OKDAV - Oriola Oyj A
+OKDBV - Oriola Oyj B
+ORNAV - Orion Oyj A
+ORNBV - Orion Oyj B
+ORPHA - Orphazyme
+ORRON - Orrön Energy
+ORTHEX - Orthex Oyj
+ORTI A - Ortivus A
+ORTI B - Ortivus B
+OP - Oscar Properties Holding
+OP PREF - Oscar Properties Holding PREF
+OP PREFB - Oscar Properties Holding PREFB
+OUT1V - Outokumpu Oyj
+OVARO - Ovaro Kiinteistösijoitus Oyj
+OVZON - Ovzon
+OX2 - OX2
+PNDORA - Pandora
+PNDX B - Pandox B
+PNA1V - Panostaja Oyj
+PARKST A - Park Street A
+PARKEN - PARKEN Sport & Entertainment
+PEAB B - Peab B
+PENNEO - Penneo
+PAAL B - Per Aarsleff Holding B
+PEG - Pharma Equity Group
+PIERCE - Pierce Group
+PIHLIS - Pihlajalinna Oyj
+PION B - PION Group B
+PLAZ B - Platzer Fastigheter Holding B
+PON1V - Ponsse Oyj 1
+PCELL - PowerCell Sweden
+PREC - Precise Biometrics
+PREV B - Prevas B
+PRIC B - Pricer B
+PRIMOF - Prime Office
+PACT - Proact IT Group
+PROB - Probi
+PROF B - Profilgruppen B
+PRFO - Profoto Holding
+PENG B - Projektengagemang Sweden B
+PUMU - PunaMusta Media Oyj
+PURMO - Purmo Group Oyj C
+PUUILO - Puuilo Oyj
+QLINEA - Q-Linea
+QLIRO - Qliro
+QPR1V - QPR Software Oyj
+QTCOM - Qt Group Oyj
+RAIL - Railcare Group
+RAIVV - Raisio Oyj Vaihto-osake
+RAP1V - Rapala VMC Oyj
+RATO A - Ratos A
+RATO B - Ratos B
+RAUTE - Raute Oyj
+RAY B - RaySearch Laboratories B
+REGINN - Reginn
+REITIR - Reitir fasteignafélag
+REJL B - Rejlers B
+REKA - Reka Industrial Oyj
+RELAIS - Relais Group Oyj
+REMEDY - Remedy Entertainment Oyj
+RESURS - Resurs Holding
+REG1V - Revenio Group Oyj
+RIAS B - Rias B
+RILBA - Ringkjøbing Landbobank
+RIZZO B - Rizzo Group B
+ROBIT - Robit Oyj
+RBLN B - Roblon B
+ROCK A - Rockwool A
+ROCK B - Rockwool B
+RROS - Rottneros
+ROVIO - Rovio Entertainment Oyj
+ROV - Rovsing
+RBREW - Royal UNIBREW
+RTX - RTX
+RUSTA - Rusta
+RVRC - RVRC Holding
+SAAB B - SAAB B
+SAGCV - Saga Furs Oyj C
+SAGA A - Sagax A
+SAGA B - Sagax B
+SAGA D - Sagax D
+SBB B - Samhällsbyggnadsbo. i Norden B
+SBB B - Samhällsbyggnadsbo. i Norden B
+SBB D - Samhällsbyggnadsbo. i Norden D
+SBB D - Samhällsbyggnadsbo. i Norden D
+SAMPO - Sampo Oyj A
+SAMPO SDB - Sampo Oyj SDB
+SAND - Sandvik
+SANION - Saniona
+SANOMA - Sanoma Oyj
+SAS - SAS
+SAS DKK - SAS
+SCA A - SCA A
+SCA B - SCA B
+SCST - Scandi Standard
+SHOT - Scandic Hotels Group
+SBS - Scandinavian Brake Systems
+SIG - Scandinavian Investment Group
+STG - Scandinavian Tobacco Group
+SCANFL - Scanfil Oyj
+SCHO - Schouw & Co.
+SDIP B - Sdiptech B
+SDIP PREF - Sdiptech Pref
+SEAF - Seafire
+SEB A - SEB A
+SEB C - SEB C
+SECT B - SECTRA B
+SECU B - Securitas B
+SEDANA - Sedana Medical
+SGG - Sensys Gatso Group
+SEZI - Senzime
+SHAPE - Shape Robotics
+SIILI - Siili Solutions Oyj
+SVN - Síldarvinnslan
+SIF - Silkeborg IF Invest
+SIMINN - Síminn
+SINCH - Sinch
+SINT - SinterCast
+SITOWS - Sitowise Group Oyj
+SIVE - Sivers Semiconductors
+SJOVA - Sjóvá-Almennar tryggingar
+SKAKO - SKAKO
+SKA B - Skanska B
+SKEL - Skel fjárfestingafélag
+SKF A - SKF A
+SKF B - SKF B
+SKIS B - SkiStar B
+SKJE - Skjern Bank
+SLEEP - Sleep Cycle
+SOF B - Softronic B
+SOLAR B - Solar B
+SFAB - Solid Försäkringsaktiebolag
+SOLTEQ - Solteq Oyj
+SOSI1 - Sotkamo Silver AB
+SPG - SP Group
+SPNO - Spar Nord Bank
+SPKSJF - Sparekassen Sjælland-Fyn
+SRV1V - SRV Yhtiöt Oyj
+SSAB A - SSAB A
+SSABAH - SSAB A
+SSAB B - SSAB B
+SSABBH - SSAB B
+SSH1V - SSH Communications Security
+STAR A - Starbreeze A
+STAR B - Starbreeze B
+STEF B - Stendörren Fastigheter B
+SF - Stillfront Group
+STOCKA - Stockmann Oyj Abp
+STWK - Stockwik Förvaltning
+STE A - Stora Enso A
+STEAV - Stora Enso Oyj A
+STERV - Stora Enso Oyj R
+STE R - Stora Enso R
+STOR B - Storskogen Group B
+STRINV - Strategic Investments
+STRAX - Strax
+SVIK - Studsvik
+SUY1V - Suominen Oyj
+SHB A - Sv. Handelsbanken A
+SHB B - Sv. Handelsbanken B
+SWEC A - SWECO A
+SWEC B - SWECO B
+SWED A - Swedbank A
+SVED B - Svedbergs Group B
+SLP B - Swedish Logistic Property B
+SOBI - Swedish Orphan Biovitrum
+SVOL A - Svolder A
+SVOL B - Svolder B
+SYDB - Sydbank
+SYN - Sýn
+SYNACT - SynAct Pharma
+SYNSAM - Synsam
+SYSR - Systemair
+TAALA - Taaleri Oyj
+TNOM - Talenom Oyj
+TCM - TCM Group
+TEM1V - Tecnotree Oyj
+TEL2 A - Tele2 A
+TEL2 B - Tele2 B
+TLT1V - Teleste Oyj
+TELIA - Telia Company
+TELIA1 - Telia Company
+TTALO - Terveystalo Oyj
+TETY - Tethys Oil
+TFBANK - TF Bank
+THULE - Thule Group
+TIETO - TietoEVRY Oyj
+TIETOS - TietoEVRY Oyj
+TIV - Tivoli A/S
+TOBII - Tobii
+TDVOX - Tobii Dynavox
+TOKMAN - Tokmanni Group Oyj
+TOP - Topdanmark
+TRMD A - TORM A
+TRAC B - Traction  B
+TRAD - TradeDoubler
+TRH1V - Trainers´ House Oyj
+TRANS - Transtema Group
+8TRA - TRATON
+TREL B - Trelleborg B
+TRIAN B - Trianon B
+TRIFOR - Trifork Holding
+TROAX - Troax Group
+TRUE B - Truecaller B
+TRYG - Tryg
+TULAV - Tulikivi Oyj A
+UIE - UIE Plc
+UNITED - United Bankers Oyj
+UPM - UPM-Kymmene Oyj
+UPONOR - Uponor Oyj
+VAIAS - Vaisala Oyj A
+WTW A - Wall to Wall Group A
+WALL B - Wallenstam B
+VALMT - Valmet Oyj
+VALOE - Valoe Oyj
+VIS - Vátryggingafélag Íslands
+VBG B - VBG GROUP B
+VEFAB - VEF
+VERK - Verkkokauppa.com Oyj
+VWS - Vestas Wind Systems
+VJBA - Vestjysk Bank
+VESTUM - Vestum
+WETTERI - Wetteri Oyj
+VPLAY A - Viaplay Group A
+VPLAY B - Viaplay Group B
+VICO - Vicore Pharma Holding
+WIHL - Wihlborgs Fastigheter
+VIK1V - Viking Line Abp
+WISE - Wise Group
+VIT B - Vitec Software Group B
+WITH - WithSecure Oyj
+VITR - Vitrolife
+VIVE - Vivesto
+VNV - VNV Global
+VOLO - Volati
+VOLO PREF - Volati Pref
+VOLV A - Volvo A
+VOLV B - Volvo B
+VOLCAR B - Volvo Car B
+WUF1V - Wulff-Yhtiöt Oyj
+WRT1V - Wärtsilä Oyj Abp
+WBGR B - Wästbygg Gruppen B
+XANO B - XANO Industri B
+XBRANE - Xbrane Biopharma
+XSPRAY - Xspray Pharma
+XVIVO - Xvivo Perfusion
+YIT - YIT Oyj
+ZEAL - Zealand Pharma
+ALBAV - Ålandsbanken Abp A
+ALBBV - Ålandsbanken Abp B
+OLGERD - Ölgerðin Egill Skallagrímsson
+ORES - Öresund
+ORSTED - Ørsted
+OSSR - Össur

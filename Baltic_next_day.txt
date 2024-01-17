@@ -1,0 +1,71 @@
+AIR - Airobot Technologies
+AKO1L - Akola group
+AMG1L - Amber Grid
+BAL1R - Amber Latvijas balzams
+EGG - APF Holdings
+APG1L - Apranga
+ARC1T - Arco Vara
+AUG1L - AUGA group
+BERCM - Bercman Technologies
+CPA1T - Coop Pank
+DGR1R - DelfinGroup
+EWA1L - East West Agro
+EFT1T - EfTEN Real Estate Fund sh.
+EEG1T - Ekspress Grupp
+ELMO - ELMO Rent
+EGR1T - Enefit Green
+EJTC - Estonian Japan Trading Company
+FRGTE - Frigate
+GRB2G - Grab2Go
+GRG1L - Grigeo
+HAE1T - Harju Elekter Group
+HPR1T - Hepsor
+IGN1L - Ignitis Grupe
+IDX1R - INDEXO
+INF1T - Infortar
+IVL1L - Invalda INVL
+INL1L - INVL Baltic Farmland
+INR1L - INVL Baltic Real Estate
+INC1L - INVL Technology
+MOLNR - J.Molner
+K2LT - K2 LT
+KNR1L - Kauno Energija
+KNE1L - KN Energies
+GZE1R - Latvijas Gaze
+LJM1R - Latvijas Juras medicinas centr
+LHV1T - LHV Group
+LINDA - Linda Nektar
+LGD1L - LITGRID
+MDARA - MADARA Cosmetics
+MRK1T - Merko Ehitus
+MODE - Modera
+NEOFI - NEO Finance
+NCN1T - Nordecon
+SKN1T - Nordic Fibreboard
+NTU1L - Novaturas
+PTR1L - Panevezio Statybos Trestas
+PZV1L - Pieno Zvaigzdes
+PRF1T - PRFoods
+PKG1T - Pro Kapital Grupp
+PNKTD - Punktid Technologies
+RKB1R - Rigas kugu buvetava
+ROBUS - Robus Group
+RSU1L - Rokiskio Suris
+SAF1R - SAF Tehnika
+SAUNA - Saunum Group
+SAB1L - Siauliu Bankas
+SCM1R - Siguldas CMAS
+SFG1T - Silvano Fashion Group
+SNG1L - Snaige
+TAL1T - Tallink Grupp
+TKM1T - Tallinna Kaubamaja Grupp
+TSM1T - Tallinna Sadam
+TVE1T - Tallinna Vesi
+TEL1L - Telia Lietuva
+MAGIC - TextMagic
+TPD1T - Trigon Property Development
+UTR1L - Utenos Trikotazas
+VLP1L - Vilkyskiu Pienine
+VBL1L - Vilniaus Baldai
+VIRSI - VIRSI-A
+ZMP1L - Zemaitijos Pienas
