@@ -1,3 +1,5 @@
+Projekts Artjoma Zaiceva un Džavida Gubatova
+
 #Nasdaq OMX Nordic tīmekļa skrāpis.
 
 Nasdaq OMX Nordic tīmekļa skrāpis ir Python skripts, kas izstrādāts, lai automatizētu datu ieguvi no Nasdaq OMX Nordic tīmekļa vietnes.
@@ -15,3 +17,4 @@ Ideja bija tāda, ka no sākuma mēs dabūsim akciju un obligāciju nosaukumus, 
 Pēc tam, modificējot kodu, programmai ir jāskrāp tīmekli un katru reizi jātaisa jaunus failus (bez cipara beigās vai "next_day"). 
 
 Beigās, programmai ir divi faili par katru no tirgiem ar akciju vai obligāciju nosaukumiem. Pirmais ir nosaukumi, kurus mēs dabūjām 27 decembrī, un otrais ir nosaukumi, kad kods tiek palaists. Tad jauns fails tiek salīdzināts ar pirmo failu (27 decembra failu) un terminālā programmai ir jāuzraksta izmaiņas, kādas akcijas parādījās vai pazuda tirgū. 
+
